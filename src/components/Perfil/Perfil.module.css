@@ -1,0 +1,19 @@
+.header{
+    background-color:var(--corPrincipal);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 180px 0 40px;
+    margin-bottom: 80px;
+    color: aliceblue;
+}
+.avatar{
+    width: 160px;
+    height: 160%;
+    border-radius: 50%;
+    border:2px solid white
+}
+
+.name{
+font-size: 18px;
+}
